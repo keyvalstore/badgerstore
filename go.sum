@@ -13,8 +13,8 @@ github.com/cespare/xxhash/v2 v2.2.0 h1:DC2CZ1Ep5Y4k3ZQ899DldepgrayRUGE6BBZ/cd9Cj
 github.com/cespare/xxhash/v2 v2.2.0/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
-github.com/codeallergy/glue v1.1.0 h1:1+EKvwlSdHrYf332w2brxbpZQftdEQS6EKDiCLK6cw0=
-github.com/codeallergy/glue v1.1.0/go.mod h1:7FDCk+rgtr7r51AjDEBcBaZDHHl+TJKKWcTSXV/K8po=
+github.com/codeallergy/glue v1.1.4 h1:g1HWa3lJuSz24ufxUyaE+c0OZvlXEVbECzJe1GiRc4s=
+github.com/codeallergy/glue v1.1.4/go.mod h1:7FDCk+rgtr7r51AjDEBcBaZDHHl+TJKKWcTSXV/K8po=
 github.com/coreos/etcd v3.3.10+incompatible/go.mod h1:uF7uidLiAD3TWHmW31ZFd/JWoc32PjwdhPthX9715RE=
 github.com/coreos/go-etcd v2.0.0+incompatible/go.mod h1:Jez6KQU2B/sWsbdaef3ED8NzMklzPG4d5KIOhIy30Tk=
 github.com/coreos/go-semver v0.2.0/go.mod h1:nnelYz7RCh+5ahJtPPxZlU+153eP4D4r3EedlOD2RNk=
@@ -77,8 +77,8 @@ github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/
 github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T20WEQ=
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
-github.com/keyvalstore/store v1.3.0 h1:x84OdwUiiabtzhIc4yFP4ZSbE2DkKtHy2DSHJQIkVoM=
-github.com/keyvalstore/store v1.3.0/go.mod h1:GT6iXvg7Qh0kLCrFf+gpJELSeykPeL347a7BXP+2NPc=
+github.com/keyvalstore/store v1.3.1 h1:WWsAmj01WevcqhNKTNautiMPk2OfUkkaap21zX9rHUE=
+github.com/keyvalstore/store v1.3.1/go.mod h1:qXXCPUbFM6Bvtgk/rQG48mxuOWx1m3njpdu1/orA2ts=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/klauspost/compress v1.12.3/go.mod h1:8dP1Hq4DHOhN9w426knH3Rhby4rFm6D8eO+e+Dq5Gzg=

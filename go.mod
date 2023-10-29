@@ -4,14 +4,14 @@ go 1.17
 
 require (
 	github.com/dgraph-io/badger/v3 v3.2103.5
-	github.com/keyvalstore/store v1.3.0
+	github.com/keyvalstore/store v1.3.1
 	github.com/pkg/errors v0.9.1
 	go.uber.org/zap v1.24.0
 )
 
 require (
 	github.com/cespare/xxhash v1.1.0 // indirect
-	github.com/codeallergy/glue v1.1.0 // indirect
+	github.com/codeallergy/glue v1.1.4 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dgraph-io/ristretto v0.1.1 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
